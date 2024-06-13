@@ -33,7 +33,7 @@ public class PlayerHealth : MonoBehaviour
         }
         if (other.gameObject.CompareTag("Take Health"))
         {
-            healthDecreased?.Invoke();
+            healthIncreased?.Invoke();
         }
 
     }
