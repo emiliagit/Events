@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Give Health
   - Take Health
+  - NPC
   layers:
   - Default
   - TransparentFX
